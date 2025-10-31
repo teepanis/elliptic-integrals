@@ -16,16 +16,4 @@ The complete elliptic integral of the first and second kind, K(k) and E(k), appe
 
 ## Citation
 
-In the meantime, if you use any part of this repository please cite the following preprint:
-
-```
-@article{Chachiyo:2025saa,
-    author = "Teepanis Chachiyo",
-    title = "{Simple and accurate complete elliptic integrals for the full range of modulus}",
-    eprint = "2505.17159",
-    archivePrefix = "arXiv",
-    primaryClass = "physics.class-ph",
-    month = "4",
-    year = "2025",
-    note = {arXiv:2505.17159},
-}
+**Accepted for publication** in _Computer Physics Communications_. In press.
