@@ -8,12 +8,12 @@ Teepanis Chachiyo <teepanisc@nu.ac.th>, Department of Physics, Faculty of Scienc
 2. **elliptic.py**: a python implementation of the formulae in this work
 3. **elliptic.c**: a c language implementaion of the formulae in this work
 
-<br>
-The research article preprint >> <a href="https://arxiv.org/abs/2505.17159">https://arxiv.org/abs/2505.17159</a>
-
 ## Abstract
 The complete elliptic integral of the first and second kind, K(k) and E(k), appear in a multitude of physics and engineering applications. Because there is no known closed-form, the exact values have to be computed numerically. Here, approximations for the integrals are proposed based on their asymptotic behaviors.  An inverse of K is also presented. As a result, the proposed K(k) and E(k) reproduce the exact analytical forms both in the zero and asymptotic limits, while in the mid-range of modulus maintain average error of 0.06% and 0.01% respectively.  The key finding  is the ability to compute the integrals with exceptional accuracy on both limits of elliptical conditions. An  accuracy of 1 in 1,000  should be sufficient for practical or prototyping engineering and architecture designs. The simplicity should facilitate discussions of advanced physics topics  in introductory physics classes, and enable broader collaborations among researchers from other fields of expertise. For example, the phase space of energy-conserving nonlinear pendulum using only elementary functions is discussed. The proposed inverse of K is shown to be Never Failing Newton Initialization and is an important step for the computation of the exact inverse. An algorithm based on Arithmetic-Geometric Mean for computing exact integrals and their derivatives are also presented, which should be useful in a platform that special functions are not accessible such as web-based and firmware developments. Comparisons with sharp bounds from the mathematical inequalities literature further highlight the competitiveness of the proposed approximations.
 
 ## Citation
 
-**Accepted for publication** in _Computer Physics Communications_. In press.
+If you use any parts of this work, please cite:
+
+Chachiyo, T. (2025). Simple and accurate complete elliptic integrals for the full range of modulus. _Computer Physics Communications_, 109931. https://doi.org/10.1016/j.cpc.2025.109931
+
